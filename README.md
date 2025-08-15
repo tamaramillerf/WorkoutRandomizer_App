@@ -5,14 +5,20 @@ WorkoutRandomizer_App is a Java-only utility application that generates randomiz
 ## Features
 - Input desired workout time (in minutes)
 - Select an exercise category: Strength, Cardio, Stretching, or All
-- Generate randomized workout plans matching your requested duration
+- Generate randomized workout plans that match your requested duration
 - Save workouts as `.txt` files
-- Simple and intuitive Java Swing GUI
+- Simple and user-friendly Java Swing GUI
 
 ## Installation
+
+### Prerequisites
+- Java JDK 17 or higher
+- Git (optional, for cloning the repository)
+
+### Steps
 1. Clone the repository:
 ```
-git clone https://github.com/YourUsername/WorkoutRandomizer_App.git
+git clone https://github.com/tamaramillerf/WorkoutRandomizer_App.git
 ```
 2. Navigate to the project folder:
 ```
